@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
- int i=216;
+ int i=66;
 scanf("&d",&i);
 for(i=0;i<10;i++)
 printf("i is",i);
